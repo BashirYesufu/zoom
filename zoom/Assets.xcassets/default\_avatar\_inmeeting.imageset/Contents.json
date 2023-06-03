@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "default\\_avatar\\_inmeeting.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

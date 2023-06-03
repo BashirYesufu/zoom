@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>For people to share, we need access to your photos</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>We will use your Bluetooth to access your Bluetooth headphones.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>For people to hear you during meetings, we need access to your microphone.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>For people to see you during meetings, we need access to your camera.</string>
+</dict>
+</plist>
